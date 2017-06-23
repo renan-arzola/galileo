@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este archivo es utilizado por el proceso de paquete/publicación de nuestro proyecto Web. Puede personalizar el comportamiento de este proceso
+editando este archivo MSBuild. Para conocer más acerca de esto, visite http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAACuaKUqNUmEyzGMBmy0mW3AAAAAACAAAAAAAQZgAAAAEAACAAAAB3lMGDlclgYh74+0FLdfN+TMLvHFrDqYGbMpwVdCiQmQAAAAAOgAAAAAIAACAAAAAONlP3nsNzUiuPpI57vQUzU1omYHRKZOGk/5YzATu5xCAAAAD80IwNjKTw1JinOeb6BITONNCu4DWafwAtExacz+PhukAAAABX6Zw3nHKA7XzLNsd82S49uSkRRx7rKxaMWixEmgKAno0qyczhM9dJfgIrO6A9XXlKh3ZaPhRbLguVD7LdsC9P</EncryptedPassword>
+    <_PublishTargetUrl>ftp://webavl.somee.com/http://webavl.somee.com</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>

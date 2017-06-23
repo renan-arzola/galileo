@@ -1,0 +1,197 @@
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.Owin.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.Owin.Security.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Newtonsoft.Json.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Owin.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.Owin.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.Owin.Security.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Newtonsoft.Json.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\obj\Debug\Interop.WMPLib.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\obj\Debug\Squilla.vbproj.ResolveComReference.cache
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\obj\Debug\Squilla.vbproj.GenerateResource.Cache
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Squilla.dll.config
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Squilla.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Squilla.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Squilla.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\obj\Debug\Squilla.Resources.resources
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\obj\Debug\Squilla.dll
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\obj\Debug\Squilla.xml
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\obj\Debug\Squilla.pdb
+C:\Users\Administrador\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\obj\Debug\Squilla.vbprojResolveAssemblyReference.cache
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Squilla.dll.config
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Squilla.dll
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Squilla.pdb
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Squilla.xml
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.Owin.dll
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.Owin.Security.dll
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Newtonsoft.Json.dll
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Owin.dll
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.AspNet.SignalR.Core.xml
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.AspNet.SignalR.Owin.xml
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.Owin.xml
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Microsoft.Owin.Security.xml
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\bin\Newtonsoft.Json.xml
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\obj\Debug\Squilla.vbprojResolveAssemblyReference.cache
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\obj\Debug\Interop.WMPLib.dll
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\obj\Debug\Squilla.vbproj.ResolveComReference.cache
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\obj\Debug\Squilla.Resources.resources
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\obj\Debug\Squilla.vbproj.GenerateResource.Cache
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\obj\Debug\Squilla.dll
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\obj\Debug\Squilla.xml
+D:\Perfil\Documents\Visual Studio 2013\Projects\Squilla\SignalRVB\obj\Debug\Squilla.pdb
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Squilla.dll.config
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Squilla.dll
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Squilla.pdb
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Squilla.xml
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.Owin.dll
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.Owin.Security.dll
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Newtonsoft.Json.dll
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Owin.dll
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.Owin.xml
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.Owin.Security.xml
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Newtonsoft.Json.xml
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\obj\Debug\Squilla.vbprojResolveAssemblyReference.cache
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\obj\Debug\Interop.WMPLib.dll
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\obj\Debug\Squilla.vbproj.ResolveComReference.cache
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\obj\Debug\Squilla.Resources.resources
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\obj\Debug\Squilla.vbproj.GenerateResource.Cache
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\obj\Debug\Squilla.dll
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\obj\Debug\Squilla.xml
+C:\Users\renan_000.XMOBILE858CE7\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\obj\Debug\Squilla.pdb
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Squilla.dll.config
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Squilla.dll
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Squilla.pdb
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Squilla.xml
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.Owin.dll
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.Owin.Security.dll
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Newtonsoft.Json.dll
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Owin.dll
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.Owin.xml
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Microsoft.Owin.Security.xml
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\bin\Newtonsoft.Json.xml
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\obj\Debug\Squilla.vbprojResolveAssemblyReference.cache
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\obj\Debug\Interop.WMPLib.dll
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\obj\Debug\Squilla.vbproj.ResolveComReference.cache
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\obj\Debug\Squilla.Resources.resources
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\obj\Debug\Squilla.vbproj.GenerateResource.Cache
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\obj\Debug\Squilla.dll
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\obj\Debug\Squilla.xml
+C:\Users\Renan\OneDrive\Visual Studio 2013\Projects\AVLSignalRWEBClient\SignalRVB\obj\Debug\Squilla.pdb
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Squilla.dll.config
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Squilla.dll
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Squilla.pdb
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Squilla.xml
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.Owin.dll
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.Owin.Security.dll
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Newtonsoft.Json.dll
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Owin.dll
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.Owin.xml
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.Owin.Security.xml
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Newtonsoft.Json.xml
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\obj\Debug\Interop.WMPLib.dll
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\obj\Debug\Squilla.vbproj.ResolveComReference.cache
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\obj\Debug\Squilla.Resources.resources
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\obj\Debug\Squilla.vbproj.GenerateResource.Cache
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\obj\Debug\Squilla.dll
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\obj\Debug\Squilla.xml
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\obj\Debug\Squilla.pdb
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\obj\Debug\Squilla.vbprojResolveAssemblyReference.cache
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\FluentDateTime.dll
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\FluentDateTime.pdb
+C:\Users\Renan\Google Drive\Visual Studio 2013\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\FluentDateTime.xml
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\obj\Debug\Interop.WMPLib.dll
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\obj\Debug\Squilla.vbproj.ResolveComReference.cache
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\obj\Debug\Squilla.Resources.resources
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\obj\Debug\Squilla.vbproj.GenerateResource.Cache
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\obj\Debug\Squilla.dll
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\obj\Debug\Squilla.xml
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\obj\Debug\Squilla.pdb
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Squilla.dll.config
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Squilla.dll
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Squilla.pdb
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Squilla.xml
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\FluentDateTime.dll
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.Owin.dll
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.Owin.Security.dll
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Newtonsoft.Json.dll
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Owin.dll
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\FluentDateTime.pdb
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\FluentDateTime.xml
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.Owin.xml
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Microsoft.Owin.Security.xml
+C:\Users\ARZOLARS\Google Drive\Visual Studio 2017\Projects\AVLSignalRWEBClient(Tomas)\SignalRVB\bin\Newtonsoft.Json.xml
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Squilla.dll.config
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Squilla.dll
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Squilla.pdb
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Squilla.xml
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\FluentDateTime.dll
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Microsoft.AspNet.SignalR.Owin.dll
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Microsoft.Owin.dll
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Microsoft.Owin.Security.dll
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Newtonsoft.Json.dll
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Owin.dll
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\FluentDateTime.pdb
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\FluentDateTime.xml
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Microsoft.AspNet.SignalR.Owin.xml
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Microsoft.AspNet.SignalR.SystemWeb.xml
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Microsoft.Owin.xml
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Microsoft.Owin.Security.xml
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\bin\Newtonsoft.Json.xml
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\obj\Debug\Squilla.vbprojResolveAssemblyReference.cache
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\obj\Debug\Interop.WMPLib.dll
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\obj\Debug\Squilla.vbproj.ResolveComReference.cache
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\obj\Debug\Squilla.Resources.resources
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\obj\Debug\Squilla.vbproj.GenerateResource.Cache
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\obj\Debug\Squilla.dll
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\obj\Debug\Squilla.xml
+C:\Users\ARZOLARS\Source\Repos\galileo\SignalRVB\obj\Debug\Squilla.pdb
